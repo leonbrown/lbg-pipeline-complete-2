@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid blue;
   padding: 10px;
 }
 
@@ -22,5 +22,5 @@ h3 {
 
 body  {
   padding: 10px;
-  background-color: white;
+  background-color: orange;
 }
